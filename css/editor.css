@@ -54,15 +54,6 @@
   color: white;
 }
 
-.Form-note {
-  margin: 10px 0 0 0;
-  font-style: italic;
-}
-.Form-note::before {
-  content: "*";
-  color: orange;
-}
-
 .p-value {
   display: inline-block;
   width: 30%;
