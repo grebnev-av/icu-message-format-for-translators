@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Generated-By: Serge 1.4\n"
+
+#. https://test.robinrain.ru/editor.html
+#: ID: fad0f7b465474120583dae4346d7835c
+msgid "Hello, {name}!"
+msgstr ""
+
+#. https://test.robinrain.ru/editor.html
+#: ID: fad0f7b46547asdasddae4346d7835c
+msgid "Hello, {name}!"
+msgstr ""
+
+
